@@ -1,2 +1,2 @@
-# lvjieya
-frontend code of the lvjieya project
+# 绿洁雅
+绿洁雅网站的前端代码
